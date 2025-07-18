@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "filched:item/aspect_encyclopedia/series_flb"
+    }
+}
