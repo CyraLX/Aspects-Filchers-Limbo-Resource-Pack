@@ -31,3 +31,7 @@ $RECYCLE.BIN/
 
 # Ignore minecraft extension files
 spyglass.json
+
+# Ignore local scripts
+script/
+scripts/
