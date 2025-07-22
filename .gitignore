@@ -35,3 +35,7 @@ spyglass.json
 # Ignore local scripts
 script/
 scripts/
+
+# Ignore local project files
+project_file/
+project_files/
