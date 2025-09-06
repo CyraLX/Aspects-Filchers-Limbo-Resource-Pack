@@ -1,0 +1,184 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"pillar_base": "minecraft:block/crying_obsidian",
+		"base_material": "minecraft:block/obsidian",
+		"alternative_material": "minecraft:block/sculk",
+		"beam_layer_0": "filched:item/essence_cage/awakened/filcher",
+		"beam_layer_1": "minecraft:block/iron_bars",
+		"all": "#base_material",
+		"particle": "#base_material"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 2, 14],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 2.5], "texture": "#pillar_base"},
+				"east": {"uv": [0, 0, 16, 2.5], "texture": "#pillar_base"},
+				"south": {"uv": [0, 0, 16, 2.5], "texture": "#pillar_base"},
+				"west": {"uv": [0, 0, 16, 2.5], "texture": "#pillar_base"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#pillar_base"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#pillar_base"}
+			}
+		},
+		{
+			"from": [3, 0, 3],
+			"to": [13, 2.5, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 4], "texture": "#alternative_material"},
+				"east": {"uv": [0, 0, 16, 4], "texture": "#alternative_material"},
+				"south": {"uv": [0, 0, 16, 4], "texture": "#alternative_material"},
+				"west": {"uv": [0, 0, 16, 4], "texture": "#alternative_material"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#alternative_material"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#alternative_material"}
+			}
+		},
+		{
+			"from": [4, 0, 4],
+			"to": [12, 4, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#base_material"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#base_material"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#base_material"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#base_material"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#base_material"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#base_material"}
+			}
+		},
+		{
+			"from": [5.5, 3, 5.5],
+			"to": [10.5, 6, 10.5],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#base_material"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#base_material"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#base_material"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#base_material"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#base_material"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#base_material"}
+			}
+		},
+		{
+			"from": [6, 3.1, 6],
+			"to": [10, 31.9, 10],
+			"light_emission": 6,
+			"faces": {
+				"north": {"uv": [6, 0, 10, 16], "texture": "#beam_layer_0"},
+				"east": {"uv": [6, 0, 10, 16], "texture": "#beam_layer_0"},
+				"south": {"uv": [6, 0, 10, 16], "texture": "#beam_layer_0"},
+				"west": {"uv": [6, 0, 10, 16], "texture": "#beam_layer_0"}
+			}
+		},
+		{
+			"from": [5.8, 23.25, 5.8],
+			"to": [10.2, 29, 10.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 24, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#beam_layer_1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#beam_layer_1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#beam_layer_1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#beam_layer_1"}
+			}
+		},
+		{
+			"from": [5.8, 17.5, 5.8],
+			"to": [10.2, 23.25, 10.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 18.25, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#beam_layer_1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#beam_layer_1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#beam_layer_1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#beam_layer_1"}
+			}
+		},
+		{
+			"from": [5.8, 11.75, 5.8],
+			"to": [10.2, 17.5, 10.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 12.5, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#beam_layer_1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#beam_layer_1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#beam_layer_1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#beam_layer_1"}
+			}
+		},
+		{
+			"from": [5.8, 6, 5.8],
+			"to": [10.2, 11.75, 10.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 7, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#beam_layer_1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#beam_layer_1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#beam_layer_1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#beam_layer_1"}
+			}
+		},
+		{
+			"from": [5.5, 29, 5.5],
+			"to": [10.5, 31.9, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 26, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#base_material"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#base_material"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#base_material"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#base_material"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#base_material"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#base_material"}
+			}
+		},
+		{
+			"from": [4, 30, 4],
+			"to": [12, 32, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 28, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 4], "texture": "#base_material"},
+				"east": {"uv": [0, 0, 16, 4], "texture": "#base_material"},
+				"south": {"uv": [0, 0, 16, 4], "texture": "#base_material"},
+				"west": {"uv": [0, 0, 16, 4], "texture": "#base_material"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#base_material"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#base_material"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [20.5, 45, 0],
+			"translation": [0, 1.25, 1.75],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [20.5, 45, 0],
+			"translation": [0, 1.25, 1.75],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [15, 30, 0],
+			"translation": [1.5, 1.75, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [15, 30, 0],
+			"translation": [1.5, 1.75, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, -135, 0],
+			"translation": [0, -2.75, 0],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"head": {
+			"translation": [0, -30.4, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [0, -3.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}
