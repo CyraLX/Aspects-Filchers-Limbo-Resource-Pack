@@ -3,8 +3,7 @@
 	"parent": "minecraft:item/handheld",
 	"textures": {
 		"layer0": "filched:item/focus/filcher_rod",
-		"layer1": "filched:item/focus/filcher_rod_tip",
-		"layer2": "filched:item/focus/filcher_core"
+		"layer1": "filched:item/focus/filcher_core"
 	},
 	"display": {
 		"thirdperson_righthand": {
