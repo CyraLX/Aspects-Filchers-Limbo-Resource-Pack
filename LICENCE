@@ -1,0 +1,38 @@
+MIT License (Modified for Addon Dependencies)
+
+Copyright (c) 2025 Cyra
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this datapack and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+1. Attribution Requirement:
+   Any project, datapack, or addon that depends on this Software must
+   clearly credit the original Software by name and link to its official
+   page or repository. This must be visible on the project's public page
+   (e.g., Modrinth, GitHub, CurseForge, etc.).
+
+2. Dependency Declaration:
+   This Software may be used as a dependency in other projects, but it
+   must not be embedded directly within any other project or addon.
+   Instead, such projects must require users to separately download and
+   install this Software.
+
+3. No Bundling Clause:
+   You may not include or bundle this Software, in whole or in part,
+   within another datapack, mod, or project. You may reference it and
+   depend on it, but distribution must remain separate.
+
+4. Preservation of License:
+   The above conditions must be included in all copies or substantial
+   portions of the Software, including in derived or dependent works.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
