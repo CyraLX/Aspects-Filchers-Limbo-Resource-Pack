@@ -3,13 +3,13 @@
 		"pack_format": 55,
 		"supported_formats": {
 			"min_inclusive": 55,
-			"max_inclusive": 69
+			"max_inclusive": 70
 		},
 		"min_format": 55,
-		"max_format": 69,
+		"max_format": 70,
 		"description": [
 			{
-				"text": "v1.0.3-dev",
+				"text": "v1.0.3",
 				"color": "dark_purple"
 			},
 			{

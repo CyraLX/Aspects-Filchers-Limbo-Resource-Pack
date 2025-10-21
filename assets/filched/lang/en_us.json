@@ -23,6 +23,7 @@
     "aspect.filched.filcher.unusual_shape": "Unusual Shape",
     "aspect.filched.filcher.unusual_shape.description": "Their body is an oddity, they are smaller, burn for longer and mine slower.\nIt's as-if they do not belong here...",
     "biome.filched.limbo_wastes": "Limbo Wastes",
+    "block.minecraft.bed.limbo_too_uneasy": "You may not rest now; you feel too uneasy around here",
     "dataPack.filched.description.footer": "Limbo was found",
     "dataPack.filched.description.header": "From the depths",
     "dataPack.filched.description.header_format": "%1$s | %2$s",
