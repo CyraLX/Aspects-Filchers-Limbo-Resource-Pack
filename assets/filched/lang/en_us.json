@@ -26,6 +26,7 @@
     "dataPack.filched.description.footer": "Limbo was found",
     "dataPack.filched.description.header": "From the depths",
     "dataPack.filched.description.header_format": "%1$s | %2$s",
+    "dataPack.filched.resource_pack_validate": "",
     "death.attack.lost_to_limbo": "%1$s was lost to Limbo",
     "death.attack.lost_to_limbo.item": "%1$s was lost to Limbo trying to escape %2$s using %3$s",
     "death.attack.lost_to_limbo.player": "%1$s was lost to Limbo trying to escape %2$s",
