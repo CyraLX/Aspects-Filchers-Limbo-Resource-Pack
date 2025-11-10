@@ -1,9 +1,9 @@
 {
 	"parent": "aspects:item/essence_cage/with_essence_parent",
 	"textures": {
-		"all": "aspects:item/essence_cage/awakened_cage",
+		"all": "aspects:block/essence_cage/awakened_cage",
 		"glass": "minecraft:block/glass",
-		"essence": "filched:item/essence_cage/awakened/filcher",
+		"essence": "filched:block/essence_cage/awakened/filcher",
         "particle": "#essence"
 	}
 }

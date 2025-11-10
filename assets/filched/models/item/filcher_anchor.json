@@ -6,7 +6,7 @@
 		"pillar_base": "minecraft:block/crying_obsidian",
 		"base_material": "minecraft:block/obsidian",
 		"alternative_material": "minecraft:block/sculk",
-		"beam_layer_0": "filched:item/essence_cage/awakened/filcher",
+		"beam_layer_0": "filched:block/essence_cage/awakened/filcher",
 		"beam_layer_1": "minecraft:block/iron_bars",
 		"all": "#base_material",
 		"particle": "#base_material"
