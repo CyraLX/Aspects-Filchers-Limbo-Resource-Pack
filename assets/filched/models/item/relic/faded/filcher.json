@@ -1,6 +1,6 @@
 {
     "parent": "aspects:item/relic/faded/parent",
     "textures": {
-        "layer0": "filched:item/relic/faded/filcher"
+        "layer1": "filched:item/relic/faded/filcher"
     }
 }
