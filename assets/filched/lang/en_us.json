@@ -56,7 +56,7 @@
     "item.filched.focus.filcher.use_name_1": "Deeper then Deep",
     "item.filched.focus.filcher.use_name_2": "Relocate Anchor",
     "item.filched.focus.filcher.use_name_3": "Anchor Prospector",
-    "item.filched.focus.filcher.use_result_1": "Enter or Exit Limbo along with another nearest entity",
+    "item.filched.focus.filcher.use_result_1": "Enter or Exit Limbo along with another nearest mountless entity",
     "item.filched.focus.filcher.use_result_2": "Pick Up or Place Down your Filcher Anchor",
     "item.filched.focus.filcher.use_result_3": "View Filcher Anchor safe distance",
     "item.filched.focus.filcher.use_time_condition_1": "In Limbo",
