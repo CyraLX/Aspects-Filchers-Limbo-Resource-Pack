@@ -1,5 +1,7 @@
 {
     "filched": "Filcher's Limbo",
+    "advancements.filched.root": "Filcher's Limbo",
+    "advancements.filched.root.description": "Rediscover the space between Worlds",
     "advancements.filched.aspect.filcher.big_catch": "Big Catch",
     "advancements.filched.aspect.filcher.big_catch.description": "Teleport an Elder Guardian to Limbo",
     "advancements.filched.aspect.filcher.big_catch.lore": "You building a fish tank for that?",
