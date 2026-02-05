@@ -3,10 +3,10 @@
 		"pack_format": 63,
 		"supported_formats": {
 			"min_inclusive": 63,
-			"max_inclusive": 79
+			"max_inclusive": 80
 		},
 		"min_format": 63,
-		"max_format": 79,
+		"max_format": 80,
 		"description": [
 			{
 				"text": "v1.1.1-dev",
