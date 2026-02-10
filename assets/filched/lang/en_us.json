@@ -21,7 +21,7 @@
     "aspect.filched.filcher.bug.description": "They are sensitive to the %s enchantment and have less health along with less reach.",
     "aspect.filched.filcher.description": "Small elusive beings capable of slipping between spaces and vanishing into a private pocket realm known as %s.\nWhile ideal for hiding their stolen treasures, this unstable dimension threatens to consume them if they wander too far.",
     "aspect.filched.filcher.limbo_attuned": "%s Attuned",
-    "aspect.filched.filcher.limbo_attuned.description": "While in %1$s, they are bigger, but get extra armor, reach and mining speed. If they crouch in $1%s, they can reduce their size even more then outside of %1$s!\nAdditionally it seems that %1$s has less effect on them? They can survive easier there then others.",
+    "aspect.filched.filcher.limbo_attuned.description": "While in %1$s, they are bigger, but get extra armor, reach and mining speed. If they crouch in %1$s, they can reduce their size even more then outside of %1$s!\nAdditionally it seems that %1$s has less effect on them? They can survive easier there then others.",
     "aspect.filched.filcher.unusual_shape": "Unusual Shape",
     "aspect.filched.filcher.unusual_shape.description": "Their body is an oddity, they are smaller, burn for longer and mine slower.\nIt's as-if they do not belong here...",
     "biome.filched.limbo_wastes": "Limbo Wastes",
