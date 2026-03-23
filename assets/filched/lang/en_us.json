@@ -1,8 +1,5 @@
 {
     "filched": "Filcher's Limbo",
-    "filched.description": "Aspects addon adding a new Aspect capable of going into a new dimension to \"safely\" store anything you desire.",
-    "filched.version": "v1.2.1",
-    "filched.authors": "CyraLX",
     "advancements.filched.aspect.filcher.big_catch": "Big Catch",
     "advancements.filched.aspect.filcher.big_catch.description": "Teleport an %1$s to %2$s",
     "advancements.filched.aspect.filcher.big_catch.lore": "You building a fish tank for that?",
@@ -48,6 +45,9 @@
     "enchantment.filched.limbo_curse.description": "Experience the greatness of Limbo.",
     "entity.filched.filcher_anchor": "Filcher Anchor",
     "entity.filched.wasted": "Wasted",
+    "filched.authors": "CyraLX",
+    "filched.description": "Aspects addon adding a new Aspect capable of going into a new dimension to \"safely\" store anything you desire.",
+    "filched.version": "v1.2.1",
     "item.filched.aspect.filcher": "Aspect of Filcher",
     "item.filched.faded_relic.filcher": "Faded Relic of Filcher",
     "item.filched.faded_relic.filcher.lore_1": "Boundries crossed...",

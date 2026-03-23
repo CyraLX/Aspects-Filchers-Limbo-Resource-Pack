@@ -66,5 +66,8 @@
     "item.filched.shattered_relic.filcher.lore_1": "Kırılmış sınılar...",
     "item.filched.shattered_relic.filcher.lore_2": "Limbo'nun tadı bir anlığına hissedildi...",
     "item.filched.shattered_relic.filcher.lore_3": "Belki de bir hiçlikdi...",
-    "item.filched.shattered_relic.filcher.lore_4": "§k§lÖĞRENDİM§r§l..."
+    "item.filched.shattered_relic.filcher.lore_4": "§k§lÖĞRENDİM§r§l...",
+    "filched.authors": "CyraLX",
+    "filched.description": "Aspects addon adding a new Aspect capable of going into a new dimension to \"safely\" store anything you desire.",
+    "filched.version": "v1.2.1"
 }
