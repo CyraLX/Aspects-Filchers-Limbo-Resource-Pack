@@ -1,5 +1,8 @@
 {
     "filched": "Tarpūnio Tarpvietė",
+    "filched.description": "Aspectai priedas, suteikiantis naują aspektą, galintį pereiti į naują dimensiją ir \"saugiai\" saugoti viską, ko tik norite.",
+    "filched.version": "v1.2.1",
+    "filched.authors": "CyraLX",
     "advancements.filched.aspect.filcher.big_catch": "Didelis laimikis",
     "advancements.filched.aspect.filcher.big_catch.description": "Teleportuoti %1$s į %2$s",
     "advancements.filched.aspect.filcher.big_catch.lore": "Statysi tam akvariumą?",
