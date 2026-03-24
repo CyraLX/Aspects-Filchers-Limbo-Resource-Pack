@@ -43,8 +43,10 @@
     "dimension.filched.limbo": "Limbo",
     "enchantment.filched.limbo_curse": "Limbo Laneti",
     "enchantment.filched.limbo_curse.description": "Limbonun gücünü hisset.",
-    "entity.filched.filcher_anchor": "Filcher Anchor",
+    "entity.filched.filcher_anchor": "Filcher Çapası",
     "entity.filched.wasted": "Kayıp",
+    "filched.authors": "CyraLX",
+    "filched.description": "Yeni bir boyuta gidip orada \"güvenli\" bir şekilde istediğini saklayabilen bir Aspect ekleyen bir Aspects eklentisi.",
     "item.filched.aspect.filcher": "Filcher'ın Aspect'i",
     "item.filched.faded_relic.filcher": "Filcher'ın Solmuş Kalıntısı",
     "item.filched.faded_relic.filcher.lore_1": "Geçilmiş sınırlar...",
@@ -66,7 +68,5 @@
     "item.filched.shattered_relic.filcher.lore_1": "Kırılmış sınılar...",
     "item.filched.shattered_relic.filcher.lore_2": "Limbo'nun tadı bir anlığına hissedildi...",
     "item.filched.shattered_relic.filcher.lore_3": "Belki de bir hiçlikdi...",
-    "item.filched.shattered_relic.filcher.lore_4": "§k§lÖĞRENDİM§r§l...",
-    "filched.authors": "CyraLX",
-    "filched.description": "Aspects addon adding a new Aspect capable of going into a new dimension to \"safely\" store anything you desire."
+    "item.filched.shattered_relic.filcher.lore_4": "§k§lÖĞRENDİM§r§l..."
 }
