@@ -1,5 +1,5 @@
 {
-    "parent": "aspects:item/relic/shattered/parent",
+    "parent": "aspects:item/relic/shattered/_parent",
     "textures": {
         "layer0": "filched:item/relic/shattered/filcher"
     }

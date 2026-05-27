@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "aspects:item/aspect/_parent",
 	"textures": {
 		"layer0": "filched:item/aspect/filcher"
 	}
